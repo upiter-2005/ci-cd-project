@@ -1,3 +1,3 @@
 export default function Blog(){
-  return(<h2>new blog 7575757575757575757575757575757575!</h2>)
+  return(<h2>new blog comming soon new posts!!</h2>)
 }
