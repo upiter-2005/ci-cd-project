@@ -1,3 +1,3 @@
 export default function Blog(){
-  return(<h2>Blog page list</h2>)
+  return(<h2>Blog page list 75757</h2>)
 }
